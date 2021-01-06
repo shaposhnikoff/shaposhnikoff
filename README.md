@@ -5,9 +5,6 @@ Senior Systems Engineer,
 Build,Release and Configuration Manager
 Kiev,Ukraine
 
-Birth 12.01.1976
-Phone: +380688062252
-email [shposhnikoff@gmail.com]
 telegram @shaposhnikoff
 
 Education
