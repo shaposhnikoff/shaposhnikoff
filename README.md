@@ -53,7 +53,6 @@ Self-educated, self-motivated, responsible, sociable, good team player, ability 
 
 
 
-I'm already open to new opportunities...
 
 </pre>
 
