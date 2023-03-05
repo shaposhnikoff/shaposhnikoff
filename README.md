@@ -5,3 +5,4 @@ Currently open to new opportunities in the DevOps space, I'm excited to join a t
 
 In addition to my professional work, I'm also committed to giving back to the community. I'm happy to share my knowledge and provide help with any DevOps-related questions or challenges you may have. Feel free to reach out to me at shaposhnikoff@gmail.com – let's connect and see how we can work together!
 
+![Metrics](/github-metrics.svg)
