@@ -4,3 +4,6 @@ As a DevOps engineer with 9 years of experience, I've built and maintained highl
 Currently open to new opportunities in the DevOps space, I'm excited to join a team where I can apply my skills and expertise to solve complex problems and drive innovation. I'm always looking for ways to learn and grow, and I enjoy working collaboratively with cross-functional teams to achieve common goals.
 
 In addition to my professional work, I'm also committed to giving back to the community. I'm happy to share my knowledge and provide help with any DevOps-related questions or challenges you may have. Feel free to reach out to me at shaposhnikoff@gmail.com – let's connect and see how we can work together!
+
+
+[![My GitHub Language Stats](https://github-readme-stats-2-shaposhnikoff.vercel.app/api/top-langs/?username=shaposhnikoff&layout=compact)](https://github.com/shaposhnikoff?tab=repositories)
