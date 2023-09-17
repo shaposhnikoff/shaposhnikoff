@@ -1,5 +1,5 @@
 
-As a DevOps engineer with 9 years of experience, I've built and maintained highly scalable infrastructure and streamlined development workflows for organizations of all sizes. I'm passionate about automating repetitive tasks and improving deployment processes to make development faster and more efficient.
+As a DevOps engineer with 9 years of experience(and about 20 years in system administration :), I've built and maintained highly scalable infrastructure and streamlined development workflows for organizations of all sizes. I'm passionate about automating repetitive tasks and improving deployment processes to make development faster and more efficient.
 
 Currently open to new opportunities in the DevOps space, I'm excited to join a team where I can apply my skills and expertise to solve complex problems and drive innovation. I'm always looking for ways to learn and grow, and I enjoy working collaboratively with cross-functional teams to achieve common goals.
 
